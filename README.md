@@ -2,6 +2,10 @@
 
 This project implements a linear regression model to predict stroke risk percentages based on various features. It uses Python with NumPy, Pandas, Matplotlib, and Scikit-learn.
 
+## Dataset
+
+The original stroke prediction dataset can be found here: [Stroke Risk Prediction Dataset](https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset/suggestions?status=pending)
+
 ## Prerequisites
 
 Ensure you have [Anaconda](https://www.anaconda.com/) installed on your system.
