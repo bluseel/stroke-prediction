@@ -25,12 +25,6 @@ conda activate stroke_risk
 ### 3. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
-```
-
-If `requirements.txt` is missing, manually install:
-
-```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
 ```
 
